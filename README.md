@@ -15,11 +15,13 @@ Out [1]:
 
 ![image](https://github.com/user-attachments/assets/e6164211-0b47-43df-9690-dc5b22ea958f)
 
-In [1]: -- Count the number of record in the dataset
+In [2]: -- Count the number of record in the dataset
 SELECT count(*) AS totalRecord
 FROM `mental health analysis` ;
 
-Out [1]: ![image](https://github.com/user-attachments/assets/ceb8a164-17a6-4410-9510-cd7fbbb63dec)
+Out [2]:
+
+![image](https://github.com/user-attachments/assets/ceb8a164-17a6-4410-9510-cd7fbbb63dec)
 
 
 
