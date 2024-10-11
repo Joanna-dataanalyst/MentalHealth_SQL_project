@@ -33,3 +33,25 @@ limit 5;
 
 ![image](https://github.com/user-attachments/assets/2eb9db3c-4892-45d1-9599-003ddc12f2fd)
 
+# In [4]: -- how many international students and domestic students are in the dataset
+select ï»¿inter_dom, 
+count(ï»¿inter_dom) as count_inter_dom
+from `mental health analysis`
+group by ï»¿inter_dom;
+
+# Out [4]: 
+
+![image](https://github.com/user-attachments/assets/afea9e53-1925-497d-a0db-3c8e646eacd9)
+
+
+
+
+
+
+
+
+
+
+
+
+
