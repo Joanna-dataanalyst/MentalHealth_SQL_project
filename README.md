@@ -12,6 +12,7 @@ Here is a data description of the columns you may find helpful.
 In [1]: select * from `mental health analysis`;
 
 Out [1]:
+
 ![image](https://github.com/user-attachments/assets/e6164211-0b47-43df-9690-dc5b22ea958f)
 
 In [1]: -- Count the number of record in the dataset
