@@ -55,11 +55,32 @@ Here is a data description of the columns you may find helpful.
 # Out [6]: 
 ![image](https://github.com/user-attachments/assets/c1d8143c-04f4-4947-96a0-1740adb57b7f)
 
+# In [7]: -- find the min, max, avg of the diagnostic tests(todep,phq-9)(tosc,scs)(toas,asiss)
+![image](https://github.com/user-attachments/assets/abd54903-b616-4775-8a59-39c7117195d3)
 
+# Out [7]: 
+![image](https://github.com/user-attachments/assets/a4664b74-d794-4ce6-898a-cd1575f35cae)
 
+# In [8]:-- what is the number of male and female students that took the test
+![image](https://github.com/user-attachments/assets/58a30722-702b-4b8b-aa28-97ec0d9d5bbf)
 
+# Out [8]: 
+![image](https://github.com/user-attachments/assets/5b8aa80d-f242-4017-81b2-a3aa2d9f7c99)
 
+# In [9]:-- what is the number of international female students
+![image](https://github.com/user-attachments/assets/d380d21a-fc0b-43fa-b28e-075abba3e4d4)
 
+# Out [9]: 
+![image](https://github.com/user-attachments/assets/d507a764-11a1-4eac-9bc9-19e0e73767b9)
 
+# In [10]: -- what is the number of grads and undergrads that took the test
+![image](https://github.com/user-attachments/assets/30e952d8-bba7-46ad-9eef-82ce352db955)
 
+# Out [10]: 
+![image](https://github.com/user-attachments/assets/ef1a8bd3-e21c-41c2-b20b-ee328b11b148)
 
+# In [11]:-- how many male and female students greater than the age of 30 took the test
+![image](https://github.com/user-attachments/assets/52eca59a-c0ee-434d-82c8-c2f50a5d2fdc)
+
+# Out [11]: 
+![image](https://github.com/user-attachments/assets/dea00f94-ad64-41cf-858d-a6e3bfdb27b6)
