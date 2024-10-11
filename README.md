@@ -24,6 +24,12 @@ Out [2]:
 ![image](https://github.com/user-attachments/assets/ceb8a164-17a6-4410-9510-cd7fbbb63dec)
 
 
+In [3]: -- inspect dataset and limit the ouput to 5 records
+Select *
+from `mental health analysis`
+limit 5;
 
+Out [3]: 
 
+![image](https://github.com/user-attachments/assets/2eb9db3c-4892-45d1-9599-003ddc12f2fd)
 
