@@ -14,34 +14,26 @@ Here is a data description of the columns you may find helpful.
 
 
 # Out [1]:
-
 ![image](https://github.com/user-attachments/assets/e6164211-0b47-43df-9690-dc5b22ea958f)
 
 # In [2]: -- Count the number of record in the dataset
 ![image](https://github.com/user-attachments/assets/d5b2bba7-20f8-4d02-9ea0-cba75fe46e6f)
 
-
 # Out [2]:
-
 ![image](https://github.com/user-attachments/assets/ceb8a164-17a6-4410-9510-cd7fbbb63dec)
 
 
 # In [3]: -- inspect dataset and limit the ouput to 5 records
 ![image](https://github.com/user-attachments/assets/1b5b445b-81c8-4f9a-9418-c207a2b56942)
 
-
 # Out [3]: 
-
 ![image](https://github.com/user-attachments/assets/2eb9db3c-4892-45d1-9599-003ddc12f2fd)
 
 # In [4]: -- how many international students and domestic students are in the dataset
 ![image](https://github.com/user-attachments/assets/3ba32c1b-9f10-418f-af4c-2d3349679fee)
 
 # Out [4]: 
-
 ![image](https://github.com/user-attachments/assets/afea9e53-1925-497d-a0db-3c8e646eacd9)
-
-
 
 # In [5]: -- fix the spelling error on the interdom column name
 ![image](https://github.com/user-attachments/assets/7feb413a-e7f9-47f3-9cf3-0eb942e8b23c)
@@ -79,8 +71,21 @@ Here is a data description of the columns you may find helpful.
 # Out [10]: 
 ![image](https://github.com/user-attachments/assets/ef1a8bd3-e21c-41c2-b20b-ee328b11b148)
 
-# In [11]:-- how many male and female students greater than the age of 30 took the test
+# In [11]:-- how many male and female students greater > than the age of 30 took the test
 ![image](https://github.com/user-attachments/assets/52eca59a-c0ee-434d-82c8-c2f50a5d2fdc)
 
 # Out [11]: 
 ![image](https://github.com/user-attachments/assets/dea00f94-ad64-41cf-858d-a6e3bfdb27b6)
+
+# In [12]:-- how many male and female students less < than or = the age of 20 took the test
+![image](https://github.com/user-attachments/assets/e9910ca5-e11f-4fe9-9666-5568b714d3ee)
+
+# Out [12]: 
+![image](https://github.com/user-attachments/assets/1f939ccc-67b3-4833-a4bd-59c04a301004)
+
+
+
+
+
+
+
