@@ -37,7 +37,6 @@ Here is a data description of the columns you may find helpful.
 # In [4]: -- how many international students and domestic students are in the dataset
 ![image](https://github.com/user-attachments/assets/3ba32c1b-9f10-418f-af4c-2d3349679fee)
 
-
 # Out [4]: 
 
 ![image](https://github.com/user-attachments/assets/afea9e53-1925-497d-a0db-3c8e646eacd9)
