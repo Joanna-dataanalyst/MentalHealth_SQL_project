@@ -6,4 +6,6 @@ The study found that international students have a higher risk of mental health 
 Explore the students data using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
 
 Here is a data description of the columns you may find helpful.
-"C:\Users\USER\Documents\Screenshots\Screenshot 2024-10-11 103004.png"
+
+<img width="374" alt="Screenshot 2024-10-11 103004" src="https://github.com/user-attachments/assets/557f0a17-0ce2-49cc-9af4-ae28cd45e81e">
+
