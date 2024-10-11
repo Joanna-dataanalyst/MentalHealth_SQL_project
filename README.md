@@ -44,6 +44,15 @@ Here is a data description of the columns you may find helpful.
 
 
 
+# In [5]: -- fix the spelling error on the interdom column name
+![image](https://github.com/user-attachments/assets/7feb413a-e7f9-47f3-9cf3-0eb942e8b23c)
+
+# Out [5]: 
+![image](https://github.com/user-attachments/assets/1b359464-e2e6-4690-8695-2316cb02d37b)
+
+
+
+
 
 
 
