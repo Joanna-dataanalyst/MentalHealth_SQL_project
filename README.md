@@ -9,27 +9,27 @@ Here is a data description of the columns you may find helpful.
 
 <img width="374" alt="Screenshot 2024-10-11 103004" src="https://github.com/user-attachments/assets/557f0a17-0ce2-49cc-9af4-ae28cd45e81e">
 
-In [1]: select * from `mental health analysis`;
+# In [1]: select * from `mental health analysis`;
 
-Out [1]:
+# Out [1]:
 
 ![image](https://github.com/user-attachments/assets/e6164211-0b47-43df-9690-dc5b22ea958f)
 
-In [2]: -- Count the number of record in the dataset
+# In [2]: -- Count the number of record in the dataset
 SELECT count(*) AS totalRecord
 FROM `mental health analysis` ;
 
-Out [2]:
+# Out [2]:
 
 ![image](https://github.com/user-attachments/assets/ceb8a164-17a6-4410-9510-cd7fbbb63dec)
 
 
-In [3]: -- inspect dataset and limit the ouput to 5 records
+# In [3]: -- inspect dataset and limit the ouput to 5 records
 Select *
 from `mental health analysis`
 limit 5;
 
-Out [3]: 
+# Out [3]: 
 
 ![image](https://github.com/user-attachments/assets/2eb9db3c-4892-45d1-9599-003ddc12f2fd)
 
