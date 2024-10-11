@@ -49,10 +49,11 @@ Here is a data description of the columns you may find helpful.
 # Out [5]: 
 ![image](https://github.com/user-attachments/assets/1b359464-e2e6-4690-8695-2316cb02d37b)
 
+# In [6]: -- where are the international students from? see the regions where they come from
+![image](https://github.com/user-attachments/assets/406d515e-b7a6-458f-ad05-4bbbb1964d5d)
 
-
-
-
+# Out [6]: 
+![image](https://github.com/user-attachments/assets/c1d8143c-04f4-4947-96a0-1740adb57b7f)
 
 
 
